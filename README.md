@@ -1,18 +1,3 @@
-SkillContour
-See where skills are strong, where gaps are forming, and what to do next.
-SkillContour is a workforce readiness, onboarding, training, and coaching platform created by New Methods Lab.
-Most training systems tell a manager who completed a course. SkillContour is being built to answer the harder questions:
-Does the employee understand the work?
-How confident are they in that understanding?
-Where do confidence and actual performance disagree?
-Which skills need reinforcement before the employee is turned loose on live work?
-What should the manager do next?
-SkillContour gives learners a clear path through training while giving managers earlier, more useful evidence about skill development, confidence, and readiness.
-Why SkillContour exists
-Hiring is only the beginning.
-Many small and midsize businesses invest heavily in finding people, then place them into scattered or incomplete onboarding. Training may live across documents, videos, links, conversations, and disconnected systems. Managers often discover gaps only after those gaps have already affected customers, leads, time, or money.
-SkillContour is designed to strengthen the part of that process a business can control: how people are taught, supported, evaluated, and prepared for the real work.
-It is not a generic course library. It is a practical system that can be shaped around the roles, skills, language, processes, and resources a business actually uses.
 Two connected experiences
 SkillContour is designed as two connected applications that share one source of readiness evidence.
 Learner Workspace
