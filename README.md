@@ -1,5 +1,3 @@
-# SkillContour
-Workforce readiness, onboarding, training, and coaching platform by New Methods Lab.
 SkillContour
 See where skills are strong, where gaps are forming, and what to do next.
 SkillContour is a workforce readiness, onboarding, training, and coaching platform created by New Methods Lab.
