@@ -45,19 +45,7 @@ Learners can:
 - Rate confidence before receiving answer feedback
 - Use approved resources during training
 - Review progress and feedback
-- Leave and resume training without losing their place
-
-Readiness Terrain
-
-Readiness Terrain transforms training evidence into a contour map of workforce readiness.
-
-- Peaks represent demonstrated strengths
-- Valleys represent areas needing support
-- Gray areas represent insufficient evidence, not poor performance
-
-Managers can explore team and individual patterns while reviewing the evidence behind each point, including accuracy, confidence, attempts, improvement, completion, recency, and resource use.
-
-Readiness Terrain supports coaching and decision-making. It is not an employee leaderboard and is not designed to rank people against one another.
+  
 
 Designed For
 
