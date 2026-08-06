@@ -1,5 +1,7 @@
 # SkillContour
 
+https://skillcontourv01.netlify.app/manager
+
 **See where skills are strong, where gaps are forming, and what support should come next.**
 
 SkillContour is a workforce readiness, onboarding, training, and coaching platform created by **New Methods Lab**.
